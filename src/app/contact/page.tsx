@@ -19,7 +19,7 @@ export default function Contact() {
                 </a>
               </div>
               
-              <div>
+              {/* <div>
                 <h3 className="font-bold">Réseaux sociaux</h3>
                 <div className="flex gap-4 mt-2">
                   <a 
@@ -47,7 +47,7 @@ export default function Contact() {
                     Twitter
                   </a>
                 </div>
-              </div>
+              </div> */}
             </div>
           </div>
 
