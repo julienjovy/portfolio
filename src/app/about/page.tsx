@@ -38,8 +38,8 @@ export default function About() {
                       <Image
                         src="/portfolio/icons/react-icon.svg"
                         alt="React"
-                        width={24}
-                        height={24}
+                        width={36}
+                        height={36}
                       />
                       <span className="text-gray-600 dark:text-gray-300">React</span>
                     </li>
@@ -47,8 +47,8 @@ export default function About() {
                       <Image
                         src="/portfolio/icons/typescript-icon.svg"
                         alt="TypeScript"
-                        width={24}
-                        height={24}
+                        width={36}
+                        height={36}
                       />
                       <span className="text-gray-600 dark:text-gray-300">TypeScript</span>
                     </li>
@@ -56,8 +56,8 @@ export default function About() {
                       <Image
                         src="/portfolio/icons/tailwind-icon.svg"
                         alt="Tailwind CSS"
-                        width={24}
-                        height={24}
+                        width={36}
+                        height={36}
                       />
                       <span className="text-gray-600 dark:text-gray-300">Tailwind CSS</span>
                     </li>
@@ -70,8 +70,8 @@ export default function About() {
                       <Image
                         src="/portfolio/icons/nodejs-icon.svg"
                         alt="Node.js"
-                        width={24}
-                        height={24}
+                        width={36}
+                        height={36}
                       />
                       <span className="text-gray-600 dark:text-gray-300">Node.js</span>
                     </li>
@@ -79,8 +79,8 @@ export default function About() {
                       <Image
                         src="/portfolio/icons/laravel-icon.svg"
                         alt="Laravel"
-                        width={24}
-                        height={24}
+                        width={36}
+                        height={36}
                       />
                       <span className="text-gray-600 dark:text-gray-300">Laravel</span>
                     </li>
@@ -88,8 +88,8 @@ export default function About() {
                       <Image
                         src="/portfolio/icons/php-icon.svg"
                         alt="PHP"
-                        width={24}
-                        height={24}
+                        width={36}
+                        height={36}
                       />
                       <span className="text-gray-600 dark:text-gray-300">PHP</span>
                     </li>
@@ -97,20 +97,6 @@ export default function About() {
                 </div>
               </div>
             </section>
-
-            {/* <section>
-              <h2 className="text-2xl font-bold mb-4">Parcours</h2>
-              <div className="space-y-4">
-                <div>
-                  <h3 className="font-bold">Entreprise Actuelle</h3>
-                  <p className="text-gray-600 dark:text-gray-300">Poste • 2022 - Présent</p>
-                </div>
-                <div>
-                  <h3 className="font-bold">Entreprise Précédente</h3>
-                  <p className="text-gray-600 dark:text-gray-300">Poste • 2020 - 2022</p>
-                </div>
-              </div>
-            </section> */}
           </div>
         </div>
       </main>
