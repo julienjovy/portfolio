@@ -16,9 +16,9 @@ export default function Home() {
         <section className="py-10">
           <h2 className="text-2xl font-bold mb-6">À propos</h2>
           <p className="text-gray-600 dark:text-gray-300">
-            Développeur passionné, j'utilise des frameworks comme Laravel ou Symfony pour créer des 
-            applications performantes et évolutives. Côté front-end, je m'appuie sur React et Tailwind CSS 
-            pour concevoir des interfaces modernes et fluides. J'ai également un fort intérêt pour 
+            Développeur passionné, j&apos;utilise des frameworks comme Laravel ou Symfony pour créer des
+            applications performantes et évolutives. Côté front-end, je m&apos;appuie sur React et Tailwind CSS
+            pour concevoir des interfaces modernes et fluides. J&apos;ai également un fort intérêt pour
             la transmission des connaissances, en accompagnant des développeurs dans leur apprentissage.
           </p>
         </section>
@@ -31,7 +31,7 @@ export default function Home() {
             <div className="border border-gray-200 dark:border-gray-700 rounded-lg p-6">
               <h3 className="text-xl font-bold mb-2">Sagittarius A*</h3>
               <p className="text-gray-600 dark:text-gray-300 mb-4">
-                Système de gestion de scènes innovant basé sur des ScriptableObjects, 
+                Système de gestion de scènes innovant basé sur des ScriptableObjects,
                 développé avec Unity pour une modularité et une organisation optimales.
               </p>
             </div>
@@ -39,20 +39,20 @@ export default function Home() {
             <div className="border border-gray-200 dark:border-gray-700 rounded-lg p-6">
               <h3 className="text-xl font-bold mb-2">Portfolio</h3>
               <p className="text-gray-600 dark:text-gray-300 mb-4">
-                Mon site personnel mettant en avant mes compétences, expériences, et projets, 
+                Mon site personnel mettant en avant mes compétences, expériences, et projets,
                 conçu avec Next.js et Tailwind CSS.
               </p>
               <div className="flex gap-4">
-                <a 
-                  href="https://julienjovy.github.io/portfolio/" 
+                <a
+                  href="https://julienjovy.github.io/portfolio/"
                   className="text-blue-500 hover:underline"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   Voir le site
                 </a>
-                <a 
-                  href="https://github.com/julienjovy" 
+                <a
+                  href="https://github.com/julienjovy"
                   className="text-blue-500 hover:underline"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -68,44 +68,44 @@ export default function Home() {
         <section className="py-10">
           <h2 className="text-2xl font-bold mb-6">Contact</h2>
           <div className="flex gap-4">
-            <a 
+            <a
               href="mailto:julien@golpert.dev"
               className="text-blue-500 hover:underline"
             >
-              <Image 
-                src="/portfolio/email-256.png" 
-                alt="Email" 
-                width={36} 
-                height={36} 
-                className="invert grayscale" 
+              <Image
+                src="/portfolio/email-256.png"
+                alt="Email"
+                width={36}
+                height={36}
+                className="invert grayscale"
               />
             </a>
-            <a 
+            <a
               href="https://github.com/julienjovy"
               className="text-blue-500 hover:underline"
               target="_blank"
               rel="noopener noreferrer"
             >
-              <Image 
-                src="/portfolio/github-256.png" 
-                alt="GitHub" 
-                width={36} 
-                height={36} 
-                className="invert grayscale" 
+              <Image
+                src="/portfolio/github-256.png"
+                alt="GitHub"
+                width={36}
+                height={36}
+                className="invert grayscale"
               />
             </a>
-            <a 
+            <a
               href="https://linkedin.com/in/julienjovy"
               className="text-blue-500 hover:border-white"
               target="_blank"
               rel="noopener noreferrer"
             >
-              <Image 
-                src="/portfolio/linkedin-256.png" 
-                alt="LinkedIn" 
-                width={36} 
-                height={36} 
-                className="focus:border-white hover:border-white" 
+              <Image
+                src="/portfolio/linkedin-256.png"
+                alt="LinkedIn"
+                width={36}
+                height={36}
+                className="focus:border-white hover:border-white"
               />
             </a>
           </div>
