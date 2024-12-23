@@ -60,7 +60,7 @@ export default function Home() {
               href="mailto:julien@golpert.dev"
               className="text-blue-500 hover:underline"
             >
-              <Image src="/email-256.png" alt="Email" width={36} height={36} className="invert grayscale" />
+              <Image src="/portfolio/email-256.png" alt="Email" width={36} height={36} className="invert grayscale" />
             </a>
             <a 
               href="https://github.com/julienjovy"
@@ -69,7 +69,7 @@ export default function Home() {
               rel="noopener noreferrer"
             >
               <Image 
-                src="/github-256.png" 
+                src="/portfolio/github-256.png" 
                 alt="GitHub" 
                 width={36} 
                 height={36} 
@@ -82,7 +82,7 @@ export default function Home() {
               target="_blank"
               rel="noopener noreferrer"
             >
-                <Image src="/linkedin-256.png" alt="LinkedIn" width={36} height={36} className="focus:border-white hover:border-white" />
+                <Image src="/portfolio/linkedin-256.png" alt="LinkedIn" width={36} height={36} className="focus:border-white hover:border-white" />
             </a>
           </div>
         </section>
