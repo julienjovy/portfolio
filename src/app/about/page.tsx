@@ -40,7 +40,7 @@ export default function About() {
                         alt="React"
                         width={48}
                         height={48}
-                        className="bg-white"
+                        className="mt-6 mr-6 mb-6"
                       />
                       <span className="text-gray-600 dark:text-gray-300">React</span>
                     </li>
@@ -50,7 +50,7 @@ export default function About() {
                         alt="TypeScript"
                         width={48}
                         height={48}
-                        className="bg-white"
+                        className="mt-6 mr-6 mb-6"
                       />
                       <span className="text-gray-600 dark:text-gray-300">TypeScript</span>
                     </li>
@@ -60,7 +60,7 @@ export default function About() {
                         alt="Tailwind CSS"
                         width={48}
                         height={48}
-                        className="bg-white"
+                        className="mt-6 mr-6 mb-6"
                       />
                       <span className="text-gray-600 dark:text-gray-300">Tailwind CSS</span>
                     </li>
@@ -75,7 +75,7 @@ export default function About() {
                         alt="Node.js"
                         width={48}
                         height={48}
-                        className="bg-white"
+                        className="mt-6 mr-6 mb-6"
                       />
                       <span className="text-gray-600 dark:text-gray-300">Node.js</span>
                     </li>
@@ -85,7 +85,7 @@ export default function About() {
                         alt="Laravel"
                         width={48}
                         height={48}
-                        className="bg-white"
+                        className="mt-6 mr-6 mb-6"
                       />
                       <span className="text-gray-600 dark:text-gray-300">Laravel</span>
                     </li>
@@ -95,7 +95,7 @@ export default function About() {
                         alt="PHP"
                         width={48}
                         height={48}
-                        className="bg-white"
+                        className="mt-6 mr-6 mb-6"
                       />
                       <span className="text-gray-600 dark:text-gray-300">PHP</span>
                     </li>
