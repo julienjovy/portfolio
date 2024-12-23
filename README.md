@@ -1,36 +1,64 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Portfolio - Julien Jovy
 
-## Getting Started
+Mon portfolio personnel présentant mes projets et compétences en développement web.
 
-First, run the development server:
+## À propos du projet
+
+Ce portfolio a été développé avec Next.js et Tailwind CSS pour créer une expérience utilisateur moderne et responsive. Il met en avant mes compétences en développement Full Stack, notamment avec Laravel, React, et Next.js.
+
+## Technologies utilisées
+
+- **Frontend**
+  - Next.js 15
+  - React 19
+  - TypeScript
+  - Tailwind CSS
+  - Geist Font
+
+- **Outils**
+  - ESLint 
+  - GitHub Actions 
+  - GitHub Pages 
+
+## Fonctionnalités
+
+- Design responsive et moderne avec Tailwind CSS
+- Optimisation des images avec next/image 
+- Déploiement automatique via GitHub Actions 
+- Support du mode sombre 
+
+## Développement local
 
 ```bash
+# Cloner le projet
+git clone https://github.com/julienjovy/portfolio.git
+
+# Installer les dépendances
+npm install
+
+# Lancer le serveur de développement
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Ouvrez [http://localhost:3000](http://localhost:3000) dans votre navigateur pour voir le résultat.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Structure du projet
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```
+portfolio/
+├── src/
+│   ├── app/           # Pages de l'application
+│   ├── components/    # Composants réutilisables
+│   ├── data/         # Données statiques
+│   └── lib/          # Utilitaires et fonctions
+├── public/           # Assets statiques
+└── ...
+```
 
-## Learn More
+## Déploiement
 
-To learn more about Next.js, take a look at the following resources:
+Le site est automatiquement déployé sur [GitHub Pages](https://julienjovy.github.io/portfolio/) à chaque push sur la branche main.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Licence
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+MIT
