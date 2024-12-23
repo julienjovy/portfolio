@@ -57,7 +57,7 @@ portfolio/
 
 ## Déploiement
 
-Le site est automatiquement déployé sur GitHub Pages à chaque push sur la branche main.
+Le site est automatiquement déployé sur [GitHub Pages](https://julienjovy.github.io/portfolio/) à chaque push sur la branche main.
 
 ## Licence
 
