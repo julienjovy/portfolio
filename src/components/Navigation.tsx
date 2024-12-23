@@ -14,7 +14,7 @@ export default function Navigation() {
       <div className="max-w-4xl mx-auto px-8 py-4">
         <div className="flex items-center justify-between">
           <Link href="/" className="text-xl font-bold">
-            Votre Nom
+            Julien Jovy
           </Link>
           
           <div className="flex gap-6">
