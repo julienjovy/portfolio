@@ -73,7 +73,7 @@ export default function Home() {
               className="text-blue-500 hover:underline"
             >
               <Image
-                src="/portfolio/email-256.png"
+                src="/email-256.png"
                 alt="Email"
                 width={36}
                 height={36}
@@ -87,7 +87,7 @@ export default function Home() {
               rel="noopener noreferrer"
             >
               <Image
-                src="/portfolio/github-256.png"
+                src="/github-256.png"
                 alt="GitHub"
                 width={36}
                 height={36}
@@ -101,7 +101,7 @@ export default function Home() {
               rel="noopener noreferrer"
             >
               <Image
-                src="/portfolio/linkedin-256.png"
+                src="/linkedin-256.png"
                 alt="LinkedIn"
                 width={36}
                 height={36}

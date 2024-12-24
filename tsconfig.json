@@ -19,7 +19,8 @@
       }
     ],
     "paths": {
-      "@/*": ["./src/*"]
+      "@/*": ["./src/*"],
+      "@/next.config": ["./next.config.mjs"]
     },
     "baseUrl": "."
   },
