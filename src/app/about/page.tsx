@@ -36,7 +36,7 @@ export default function About() {
                   <ul className="space-y-2">
                     <li className="flex items-center gap-2">
                       <Image
-                        src="/icons/react-icon.svg"
+                        src="/portfolio/icons/react-icon.svg"
                         alt="React"
                         width={48}
                         height={48}
@@ -46,7 +46,7 @@ export default function About() {
                     </li>
                     <li className="flex items-center gap-2">
                       <Image
-                        src="/icons/typescript-icon.svg"
+                        src="/portfolio/icons/typescript-icon.svg"
                         alt="TypeScript"
                         width={48}
                         height={48}
@@ -56,7 +56,7 @@ export default function About() {
                     </li>
                     <li className="flex items-center gap-2">
                       <Image
-                        src="/icons/tailwind-icon.svg"
+                        src="/portfolio/icons/tailwind-icon.svg"
                         alt="Tailwind CSS"
                         width={48}
                         height={48}
@@ -71,7 +71,7 @@ export default function About() {
                   <ul className="space-y-2">
                     <li className="flex items-center gap-2">
                       <Image
-                        src="/icons/nodejs-icon.svg"
+                        src="/portfolio/icons/nodejs-icon.svg"
                         alt="Node.js"
                         width={48}
                         height={48}
@@ -81,7 +81,7 @@ export default function About() {
                     </li>
                     <li className="flex items-center gap-2">
                       <Image
-                        src="/icons/laravel-icon.svg"
+                        src="/portfolio/icons/laravel-icon.svg"
                         alt="Laravel"
                         width={48}
                         height={48}
@@ -91,7 +91,7 @@ export default function About() {
                     </li>
                     <li className="flex items-center gap-2">
                       <Image
-                        src="/icons/php-icon.svg"
+                        src="/portfolio/icons/php-icon.svg"
                         alt="PHP"
                         width={48}
                         height={48}
